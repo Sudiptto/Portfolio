@@ -1637,6 +1637,8 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		
+
 		.image.featured {
 			display: block;
 			width: 100%;
@@ -2442,4 +2444,10 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
+	}
+
+	strong:hover{
+		font-size: 60px;
+		color: white;
+		background-color: black;
 	}
